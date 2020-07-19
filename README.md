@@ -15,8 +15,8 @@
 and skip filtering if null.
 2. Changed filter display are so that text and input boxes align
 
-![](UFOS_1_13_2010.PNG)
+![](UFOS_1_13_2010.png)
 
-![](UFO_CHALLEGE.PNG)
+![](UFO_CHALLEGE.png)
 
 ##C. Recommendation
